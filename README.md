@@ -35,9 +35,9 @@ nexo/
 
 ## Souce Code:
 
-**homepage:**
+**homepage:** https://mowmowj.github.io/nexo
 
- **github:**https://github.com/Mowmowj/NexoUI
+**github:** https://github.com/Mowmowj/NexoUI
 
 **npm:** https://www.npmjs.com/package/nexoui
 
